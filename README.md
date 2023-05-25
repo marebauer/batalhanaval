@@ -1,3 +1,3 @@
 # batalhanaval
- exercicio llp e livro use a cabeçca
+ exercicio llp e livro use a cabeça
 testa
